@@ -45,4 +45,4 @@
 # Deployment
 
 - Live Demo: The application is hosted on Netlify.
-- Access it here: 
+- Access it here: https://dhruv-admin-dashboard.netlify.app/
